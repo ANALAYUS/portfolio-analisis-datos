@@ -1,7 +1,6 @@
 # Portfolio de Análisis de Datos
 
-¡Hola! 👋 Bienvenidos a mi repositorio de proyectos de análisis de datos. Aquí comparto desarrollos prácticos enfocados en la resolución de problemas de negocio, limpieza de datos, modelado y visualización utilizando herramientas como **Python, SQL y Power BI**.
-
+¡Hola! 👋 Bienvenidos a mi repositorio de proyectos de análisis de datos y machine learning. Aquí comparto desarrollos prácticos enfocados en la resolución de problemas de negocio, limpieza de datos, modelado predictivo y visualización utilizando herramientas como Python, SQL, Power BI y Scikit-Learn.
 ---
 
 ## 🚀 Proyectos Incluidos
