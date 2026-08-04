@@ -1,0 +1,14 @@
+# Dashboard Interactivo de Rendimiento Comercial (Tableau)
+
+## 📌 1. Objetivo del Proyecto
+Diseño y desarrollo de un tablero interactivo orientado a directivos para el seguimiento de KPIs comerciales (ventas totales, cumplimiento de metas, rentabilidad por categoría y análisis geográfico).
+
+## 🛠️ Herramientas Utilizadas
+* **Plataforma:** Tableau Public
+* **Modelado de Datos:** Relación de tablas y limpieza previa en la fuente para optimizar el rendimiento del reporte.
+
+## 📊 2. Funcionalidades y Estructura del Dashboard
+* **Filtros cruzados:** Permite al usuario filtrar toda la pantalla seleccionando regiones o categorías específicas con un solo clic.
+* **Parámetros dinámicos:** Permite alternar la vista entre métricas de facturación y márgenes de ganancia en tiempo real.
+* **Diseño UX/UI:** Estructurado en grillas limpias con tarjetas de resumen arriba (KPIs principales) y gráficos de tendencia abajo para una lectura ejecutiva rápida por parte de la gerencia.
+
