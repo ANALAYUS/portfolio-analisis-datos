@@ -1,0 +1,16 @@
+# Dashboard de Análisis de Ventas (Tableau)
+
+## 📌 1. Objetivo del Proyecto
+Desarrollo de una visualización interactiva orientada al análisis comercial para identificar rápidamente qué categorías de productos lideran las ventas y optimizar la toma de decisiones.
+
+## 🛠️ Herramientas Utilizadas
+* **Plataforma:** Tableau Public
+* **Procesamiento:** Estructuración y modelado de datos tabulares (CSV).
+
+## 📊 2. Funcionalidades y Estructura del Reporte
+* **Gráfico de Barras por Categoría:** Visualización clara de los montos totales de ventas segregados por línea de producto.
+* **Etiquetas de Datos:** Incorporación de valores numéricos explícitos sobre cada barra para una lectura ejecutiva rápida y sin fricciones.
+* **Filtros Interactivos:** Permite aislar categorías específicas con un solo clic.
+
+## 🔗 Enlace al Proyecto
+* [Ver Dashboard en Tableau Public] https://public.tableau.com/app/profile/ana.layus/viz/AnalisisdeVentasporCategoria/Hoja1?publish=yes
