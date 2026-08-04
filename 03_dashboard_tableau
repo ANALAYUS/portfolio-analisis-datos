@@ -1,14 +1,16 @@
-# Dashboard Interactivo de Rendimiento Comercial (Tableau)
+# Dashboard de Análisis de Ventas (Tableau)
 
 ## 📌 1. Objetivo del Proyecto
-Diseño y desarrollo de un tablero interactivo orientado a directivos para el seguimiento de KPIs comerciales (ventas totales, cumplimiento de metas, rentabilidad por categoría y análisis geográfico).
+Desarrollo de una visualización interactiva orientada al análisis comercial para identificar rápidamente qué categorías de productos lideran las ventas y optimizar la toma de decisiones.
 
 ## 🛠️ Herramientas Utilizadas
 * **Plataforma:** Tableau Public
-* **Modelado de Datos:** Relación de tablas y limpieza previa en la fuente para optimizar el rendimiento del reporte.
+* **Procesamiento:** Estructuración y modelado de datos tabulares (CSV).
 
-## 📊 2. Funcionalidades y Estructura del Dashboard
-* **Filtros cruzados:** Permite al usuario filtrar toda la pantalla seleccionando regiones o categorías específicas con un solo clic.
-* **Parámetros dinámicos:** Permite alternar la vista entre métricas de facturación y márgenes de ganancia en tiempo real.
-* **Diseño UX/UI:** Estructurado en grillas limpias con tarjetas de resumen arriba (KPIs principales) y gráficos de tendencia abajo para una lectura ejecutiva rápida por parte de la gerencia.
+## 📊 2. Funcionalidades y Estructura del Reporte
+* **Gráfico de Barras por Categoría:** Visualización clara de los montos totales de ventas segregados por línea de producto.
+* **Etiquetas de Datos:** Incorporación de valores numéricos explícitos sobre cada barra para una lectura ejecutiva rápida y sin fricciones.
+* **Filtros Interactivos:** Permite aislar categorías específicas con un solo clic.
 
+## 🔗 Enlace al Proyecto
+* [Ver Dashboard en Tableau Public](https://public.tableau.com/app/profile/ana.layus/viz/AnalisisdeVentasporCategoria/Hoja1?publish=yes)
